@@ -1,0 +1,22 @@
+{
+  "name": "node-red-contrib-audiostream-to-speaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "speaker": "^0.3.0"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "audiobuffer-to-speaker": "index.js"
+    }
+  }
+}
