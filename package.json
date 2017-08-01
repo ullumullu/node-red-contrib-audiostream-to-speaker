@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-audiostream-to-speaker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -26,4 +26,3 @@
     "node": "6.x"
   }
 }
-
