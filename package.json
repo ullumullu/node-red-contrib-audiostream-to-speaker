@@ -18,5 +18,12 @@
     "nodes": {
       "audiobuffer-to-speaker": "index.js"
     }
+  },
+  "repository": {
+    "git": "https://github.com/ullumullu/node-red-contrib-audiostream-to-speaker"
+  },
+  "engines": {
+    "node": "6.x"
   }
 }
+
